@@ -110,7 +110,7 @@ export default function skills() {
           invert: true,
         },
         {
-          name: "PostresQL",
+          name: "PostreSQL",
           icon: mysqlIcon,
           invert: false,
         },
